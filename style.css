@@ -2,10 +2,24 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    font-family: "Azeret Mono", monospace;
+}
+/* shareable start*/
+.text-center{
+    text-align: center;
+}
+.margin{
+    margin: 20px 0px;
+}
+/* shareable end */
+
+
+/* rohan-r start */
 .rohan-r{
     display: flex;
     justify-content: space-around;
-    margin-top: 20px;
+    margin: 40px 0 ;
 }
 .rohan-r button{
     border-radius: 5px;
@@ -14,4 +28,35 @@
 .rohan-r a{
     text-decoration: none;
     color:rgb(61, 66, 77);
+}
+/* rohan-r end */
+.hero-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./assets/Hero-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0px 0px 100px;
+
+}
+.hero-content{
+    width: 85%;
+    margin: 0 auto;
+}
+.hero-content h1{
+    font-weight: bolder;
+    font-size: 45px;
+}
+.hero-content button{
+    background-color: black;
+    color: #FFFFFF;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+}
+/* second-hero-section start */
+.second-hero-section{
+    display: flex;
 }
