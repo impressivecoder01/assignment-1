@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.rohan-r{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.rohan-r button{
+    border-radius: 5px;
+    padding:5px 8px;
+}
+.rohan-r a{
+    text-decoration: none;
+    color:rgb(61, 66, 77);
+}
