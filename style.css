@@ -74,6 +74,10 @@ body{
     border: none;
     border-radius: 5px;
 }
+.hero-content a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
 
 /* .why-development{
     width:70% ;
