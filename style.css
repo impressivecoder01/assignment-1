@@ -5,6 +5,9 @@
 body{
     font-family: "Azeret Mono", monospace;
 }
+body p{
+    font-size: 12px;
+}
 /* shareable start*/
 .text-center{
     text-align: center;
@@ -70,7 +73,7 @@ body{
 .hero-content button{
     background-color: black;
     color: #FFFFFF;
-    padding: 15px;
+    padding: 15px 25px;
     border: none;
     border-radius: 5px;
 }
@@ -119,6 +122,15 @@ body{
     width: 70%;
     margin: 0 auto 100px;
 }
+.vdo{
+    width: 600px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background-color: beige;
+}
 iframe{
     border-radius: 10px;
 }
@@ -140,14 +152,17 @@ iframe{
 .forth-one{
     background-color: bisque;
     padding: 40px;
+    border-radius: 8px;
 }
 .forth-two{
     background-color: lightcyan;
     padding: 40px;
+    border-radius: 8px;
 }
 .forth-third{
     background-color: rgb(255, 253, 242);
     padding: 40px;
+    border-radius: 8px;
 }
 /* forth-hero-section end */
 .sixth-hero-section{
