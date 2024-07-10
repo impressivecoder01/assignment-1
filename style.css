@@ -12,6 +12,17 @@ body{
 .margin{
     margin: 20px 0px;
 }
+.second-hero-a{
+    text-decoration: none;
+    color: #0D1321;
+}
+.button-design{
+    padding: 5px 10px;
+    margin: 20px 0px;
+}
+.width{
+    width: 50%;
+}
 /* shareable end */
 
 
@@ -56,7 +67,25 @@ body{
     border: none;
     border-radius: 5px;
 }
-/* second-hero-section start */
-.second-hero-section{
-    display: flex;
+
+.why-development{
+    width:70% ;
+    margin: 5px auto 90px;
 }
+/* second-hero-section start */
+.second-hero-section1{
+    display: flex;
+    width: 70%;
+    margin: 5px auto 80px;
+}
+.second-hero-section2{
+    display: flex;
+    width: 70%;
+    margin: 5px auto 80px;
+}
+.second-hero-section3{
+    display: flex;
+    width: 70%;
+    margin: 5px auto 80px;
+}
+
