@@ -29,6 +29,10 @@ body p{
 .h4-margin{
     margin: 15px 0;
 }
+.margin-p{
+    margin: 0px 0px 15px 0px;
+}
+
 .development-target-section{
     width:70% ;
     margin: 5px auto 90px;
@@ -185,4 +189,3 @@ div input[type="text"], input[type="button"]{
     width: 80%;
     margin: 5px auto 30px;
 }
-
