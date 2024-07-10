@@ -104,4 +104,37 @@ body{
     width: 70%;
     margin: 0 auto 100px;
 }
+.forth-hero-section{
+    display: flex;
+    gap: 10px;
+    width: 80%;
+    margin: 5px auto 80px;
+}
+.forth-hero-section a{
+    color: #0D1321;
+    /* margin: 200px 0; */
+}
+.forth-one{
+    background-color: bisque;
+    padding: 40px;
+}
+.forth-two{
+    background-color: lightcyan;
+    padding: 40px;
+}
+.forth-third{
+    background-color: rgb(255, 253, 242);
+    padding: 40px;
+}
+.sixth-hero-section{
+    background-image: url("./assets/handshake.jpg");
+    background-position: center;
+    background-repeat:no-repeat ;
+    border-radius: 5px;
+    padding: 20px 50px;
+    width: 80%;
+    margin: 5px auto 30px;
+    color: #FFFFFF;
+    
+}
 
