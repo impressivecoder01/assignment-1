@@ -23,6 +23,13 @@ body{
 .width{
     width: 50%;
 }
+.h4-margin{
+    margin: 15px 0;
+}
+.development-target-section{
+    width:70% ;
+    margin: 5px auto 90px;
+}
 /* shareable end */
 
 
@@ -68,10 +75,10 @@ body{
     border-radius: 5px;
 }
 
-.why-development{
+/* .why-development{
     width:70% ;
     margin: 5px auto 90px;
-}
+} */
 /* second-hero-section start */
 .second-hero-section1{
     display: flex;
@@ -87,5 +94,14 @@ body{
     display: flex;
     width: 70%;
     margin: 5px auto 80px;
+}
+.third-hero-section{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    margin: 0 auto 100px;
 }
 
